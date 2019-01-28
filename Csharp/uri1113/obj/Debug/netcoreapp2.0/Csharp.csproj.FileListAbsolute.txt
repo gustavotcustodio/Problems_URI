@@ -1,0 +1,11 @@
+/home/gustavo/Desktop/Csharp/bin/Debug/netcoreapp2.0/Csharp.deps.json
+/home/gustavo/Desktop/Csharp/bin/Debug/netcoreapp2.0/Csharp.runtimeconfig.json
+/home/gustavo/Desktop/Csharp/bin/Debug/netcoreapp2.0/Csharp.runtimeconfig.dev.json
+/home/gustavo/Desktop/Csharp/bin/Debug/netcoreapp2.0/Csharp.dll
+/home/gustavo/Desktop/Csharp/bin/Debug/netcoreapp2.0/Csharp.pdb
+/home/gustavo/Desktop/Csharp/obj/Debug/netcoreapp2.0/Csharp.csprojResolveAssemblyReference.cache
+/home/gustavo/Desktop/Csharp/obj/Debug/netcoreapp2.0/Csharp.csproj.CoreCompileInputs.cache
+/home/gustavo/Desktop/Csharp/obj/Debug/netcoreapp2.0/Csharp.AssemblyInfoInputs.cache
+/home/gustavo/Desktop/Csharp/obj/Debug/netcoreapp2.0/Csharp.AssemblyInfo.cs
+/home/gustavo/Desktop/Csharp/obj/Debug/netcoreapp2.0/Csharp.dll
+/home/gustavo/Desktop/Csharp/obj/Debug/netcoreapp2.0/Csharp.pdb

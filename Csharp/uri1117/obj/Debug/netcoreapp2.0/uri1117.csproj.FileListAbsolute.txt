@@ -1,0 +1,11 @@
+/home/gustavo/Documents/Csharp/uri1117/bin/Debug/netcoreapp2.0/uri1117.deps.json
+/home/gustavo/Documents/Csharp/uri1117/bin/Debug/netcoreapp2.0/uri1117.runtimeconfig.json
+/home/gustavo/Documents/Csharp/uri1117/bin/Debug/netcoreapp2.0/uri1117.runtimeconfig.dev.json
+/home/gustavo/Documents/Csharp/uri1117/bin/Debug/netcoreapp2.0/uri1117.dll
+/home/gustavo/Documents/Csharp/uri1117/bin/Debug/netcoreapp2.0/uri1117.pdb
+/home/gustavo/Documents/Csharp/uri1117/obj/Debug/netcoreapp2.0/uri1117.csprojResolveAssemblyReference.cache
+/home/gustavo/Documents/Csharp/uri1117/obj/Debug/netcoreapp2.0/uri1117.csproj.CoreCompileInputs.cache
+/home/gustavo/Documents/Csharp/uri1117/obj/Debug/netcoreapp2.0/uri1117.AssemblyInfoInputs.cache
+/home/gustavo/Documents/Csharp/uri1117/obj/Debug/netcoreapp2.0/uri1117.AssemblyInfo.cs
+/home/gustavo/Documents/Csharp/uri1117/obj/Debug/netcoreapp2.0/uri1117.dll
+/home/gustavo/Documents/Csharp/uri1117/obj/Debug/netcoreapp2.0/uri1117.pdb

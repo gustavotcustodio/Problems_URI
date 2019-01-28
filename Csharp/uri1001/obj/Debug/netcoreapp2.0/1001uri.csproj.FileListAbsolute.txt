@@ -1,0 +1,11 @@
+/home/gustavo/Desktop/1001uri/bin/Debug/netcoreapp2.0/1001uri.deps.json
+/home/gustavo/Desktop/1001uri/bin/Debug/netcoreapp2.0/1001uri.runtimeconfig.json
+/home/gustavo/Desktop/1001uri/bin/Debug/netcoreapp2.0/1001uri.runtimeconfig.dev.json
+/home/gustavo/Desktop/1001uri/bin/Debug/netcoreapp2.0/1001uri.dll
+/home/gustavo/Desktop/1001uri/bin/Debug/netcoreapp2.0/1001uri.pdb
+/home/gustavo/Desktop/1001uri/obj/Debug/netcoreapp2.0/1001uri.csprojResolveAssemblyReference.cache
+/home/gustavo/Desktop/1001uri/obj/Debug/netcoreapp2.0/1001uri.csproj.CoreCompileInputs.cache
+/home/gustavo/Desktop/1001uri/obj/Debug/netcoreapp2.0/1001uri.AssemblyInfoInputs.cache
+/home/gustavo/Desktop/1001uri/obj/Debug/netcoreapp2.0/1001uri.AssemblyInfo.cs
+/home/gustavo/Desktop/1001uri/obj/Debug/netcoreapp2.0/1001uri.dll
+/home/gustavo/Desktop/1001uri/obj/Debug/netcoreapp2.0/1001uri.pdb
